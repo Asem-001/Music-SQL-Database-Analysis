@@ -1,6 +1,6 @@
 # Music-SQL-Database-Analysis
 
-this is small data analysis project using SQL 
+this is small data analysis project using SQL I used SQLite in this project
 
 this analysis consist of 4 questions and I used queries to answer them then I got the data to make visuals about it
 
